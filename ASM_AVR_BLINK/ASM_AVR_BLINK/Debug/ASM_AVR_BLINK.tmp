@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\bob urrea\Documents\Atmel Studio\7.0\ASM_AVR_BLINK\ASM_AVR_BLINK\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\bob urrea\Documents\Atmel Studio\7.0\ASM_AVR_BLINK\ASM_AVR_BLINK\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\bob urrea\Documents\Atmel Studio\7.0\ASM_AVR_BLINK\ASM_AVR_BLINK\Debug\ASM_AVR_BLINK.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ASM_AVR_BLINK.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ASM_AVR_BLINK.map</FILE>
+  <FILE>ASM_AVR_BLINK.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>c:\users\bob urrea\Documents\Atmel Studio\7.0\ASM_AVR_BLINK\ASM_AVR_BLINK\main.asm</FILE><LINE>14</LINE></start>
+  <l1><FILE>c:\users\bob urrea\Documents\Atmel Studio\7.0\ASM_AVR_BLINK\ASM_AVR_BLINK\main.asm</FILE><LINE>30</LINE></l1>
+  <p2><FILE>c:\users\bob urrea\Documents\Atmel Studio\7.0\ASM_AVR_BLINK\ASM_AVR_BLINK\main.asm</FILE><LINE>22</LINE></p2>
+  <l2><FILE>c:\users\bob urrea\Documents\Atmel Studio\7.0\ASM_AVR_BLINK\ASM_AVR_BLINK\main.asm</FILE><LINE>36</LINE></l2>
+ </LABELS>
+</ASSEMBLER_INFO>
